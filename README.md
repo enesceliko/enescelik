@@ -1,1 +1,1 @@
-# enescelik
+# Hello everyone I am Enes Çelik.  I graduated electrical engineering at Yıldız Technical University in 2022. I am a new learner about software technologies. I want to improve my software skills and do some projects. 
